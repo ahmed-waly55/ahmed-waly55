@@ -1,29 +1,21 @@
-# 👋 Hi, I'm Ahmed
+# Hi there, I'm Ahmed 👋
 
-## 👨‍💻 About Me
-I'm a Frontend Developer specializing in React and have experience in Kotlin for mobile development. Currently, I'm working on a **Violence Detection Model** using TensorFlow and Keras.
+I'm a **Front-end Developer** specializing in **React** with experience in **Kotlin** and **Jetpack Compose** for mobile apps. Passionate about crafting seamless user experiences and building innovative projects that make an impact.
 
-## 🛠️ Technologies & Tools
-- **Languages:** HTML, CSS, JavaScript, Kotlin
-- **Frameworks:** React, Jetpack Compose
-- **Machine Learning:** TensorFlow, Keras
-- **Databases:** Firebase, MongoDB
-- **Tools:** Git, GitHub, VSCode, Anaconda
+---
 
-## 📊 Current Projects
-- **Violence Detection Model**: A model to detect violence in videos using TensorFlow.
-- **Nursing Services App**: An app connecting patients with clinics for treatment and health monitoring.
+### 🛠️ Skills:
+- **Languages:** HTML, CSS, JavaScript, TypeScript
+- **Frameworks & Libraries:** React, Bootstrap
+- **Mobile Development:** Kotlin, Jetpack Compose
 
-## 🌱 I’m Currently Learning
-- Advanced Machine Learning Techniques
-- Backend Development with Node.js
+---
 
-## 📫 How to Reach Me
-- **Email:** your.ahmedwaly074@gmail.com
-- **LinkedIn:** [Your LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/ahmed-waly55/))
+### 🌐 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-profile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ahmed-profile)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmed-waly55)
 
-## 🌟 My GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+---
 
-![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&theme=radical)
-
+[![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmed-waly55&show_icons=true&theme=radical)](https://github.com/ahmed-waly55)
