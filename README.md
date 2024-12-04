@@ -16,5 +16,3 @@ I'm a **Front-end Developer** specializing in **React** with experience in **Kot
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmed-waly55)
 
 ---
-
-[![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmed-waly55&show_icons=true&theme=radical)](https://github.com/ahmed-waly55)
