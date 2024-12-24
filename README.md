@@ -13,7 +13,6 @@ I'm a **Front-end Developer** specializing in **React** with experience in **Kot
 
 ### 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-waly55/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmed-waly55)
 
 ---
 
