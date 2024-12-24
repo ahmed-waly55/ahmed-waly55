@@ -6,7 +6,7 @@ I'm a **Front-end Developer** specializing in **React** with experience in **Kot
 
 ### 🛠️ Skills:
 - **Languages:** HTML, CSS, JavaScript, TypeScript
-- **Frameworks & Libraries:** React, Bootstrap
+- **Frameworks & Libraries:** Angular, React, Node, Bootstrap
 - **Mobile Development:** Kotlin, Jetpack Compose
 
 ---
