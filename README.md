@@ -25,7 +25,9 @@ I'm a **Front-end Developer** specializing in **React** with experience in **Kot
 
   <img align="left" width="47%" height="205" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-waly55&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 
-  
+  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ahmed-waly55&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
+<img align="left" width="47%" height="205" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-waly55&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+
   
 </div>
 
