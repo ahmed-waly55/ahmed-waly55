@@ -23,7 +23,6 @@ I'm a **Front-end Developer** specializing in **React** with experience in **Kot
 
   <!-- Top Languages Card -->
 
-  <img align="left" width="47%" height="205" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-waly55&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 
   <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ahmed-waly55&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
 <img align="left" width="47%" height="205" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-waly55&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
@@ -32,5 +31,4 @@ I'm a **Front-end Developer** specializing in **React** with experience in **Kot
 </div>
 
 
-[![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmed-waly55&show_icons=true&theme=radical)](https://github.com/ahmed-waly55)
 
