@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-waly55&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-waly55" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmed-waly55" alt="ahmed-waly55" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,5 +15,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-waly55&show_icons=true&locale=en&layout=compact" alt="ahmed-waly55" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed-waly55&show_icons=true&locale=en" alt="ahmed-waly55" /></p>
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmed-waly55" alt="ahmed-waly55" /></a> </p>
 
 
