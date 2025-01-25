@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ahmed Waly</h1>
-<h3 align="center">A passionate frontend developer from Egypt</h3>
+<h3 align="center">A passionate Frontend Developer from Egypt</h3>
 
-
+<p>A Front-End Developer specializing in modern frameworks like Angular.js, responsible for the development of responsive and scalable web applications.
+Ability to design and implement user-centered interfaces, strongly concerned with performance optimization and seamless user opportunities to maximize experience and satisfaction.
+Skilled at working in Agile teams, troubleshooting technical issues, and managing their time and tasks efficiently to meet deadlines.
+Hands-on experience with Angular.js, Node.js, and MongoDB, including a good knowledge of back-end integration and full-stack development principles.
+Strong commitment is made to Agile methodologies for the delivery of high-quality and innovative projects beyond client expectations.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
