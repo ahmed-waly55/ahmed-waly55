@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Waly</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-waly55&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-waly55" /> </p>
 
 <p>
  I am a passionate Frontend Developer from Egypt, specializing in modern frameworks like Angular.js. I focus on building responsive, scalable, and user-friendly web applications. With a strong emphasis on performance optimization and seamless user experiences, I strive to deliver interfaces that maximize satisfaction and engagement.
